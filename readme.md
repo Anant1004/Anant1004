@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kumar_anant01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="kumar_anant_01" height="30" width="40" /></a>
+<a href="https://instagram.com/kumar_anant01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="kumar_anant_01" height="40" width="40" /></a>
 </p><p align="left"><a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="kumar_anant_01" height="40" width="40" /></a>
 
 
