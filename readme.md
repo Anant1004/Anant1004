@@ -1,4 +1,3 @@
- <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 <h1 align="center">Hi 👋, I'm Anant kumar</h1>
 <h3 align="center">A passionate and dedicated developer from India</h3>
 
